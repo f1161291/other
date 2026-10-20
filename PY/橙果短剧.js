@@ -2,7 +2,7 @@
 // @author 宝宝巴士
 // @description 橙果短剧 · 原创/魔改/漫剧/真人/AI/片库，原 ForwardWidget 源适配 OmniBox
 // @version 1.0.0
-// @downloadURL https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/refs/heads/main/短剧/橙果短剧.js
+// @downloadURL https://gh-proxy.org/https://github.com/f1161291/other/blob/main/PY/%E6%A9%99%E6%9E%9C%E7%9F%AD%E5%89%A7.js
 
 /**
  * ==========================================================================
