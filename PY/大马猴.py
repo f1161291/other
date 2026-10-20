@@ -2,7 +2,7 @@
 # @name 大马猴影视
 # @description 影视站：https://dmhyy.com ，JSON 接口，支持分类、搜索、聚合线路详情与直链/解码播放
 # @version 1.0.0
-# @downloadURL https://gh-proxy.org/https://github.com/f1161291/other/edit/main/PY/大马猴.py
+# @downloadURL https://gh-proxy.org/https://github.com/f1161291/other/blob/main/PY/大马猴.py
 
 # =============================================================================
 # 大马猴影视（https://dmhyy.com）
