@@ -3,7 +3,6 @@
 # @description 影视站：https://dmhyy.com ，JSON 接口，支持分类、搜索、聚合线路详情与直链/解码播放
 # @version 1.0.0
 # @downloadURL https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/refs/heads/main/影视/采集/big.py
-# @indexs 1
 
 # =============================================================================
 # 大马猴影视（https://dmhyy.com）
