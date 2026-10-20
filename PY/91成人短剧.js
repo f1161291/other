@@ -2,7 +2,7 @@
 // @author 宝宝巴士
 // @description 91crdj · 成人短剧/漫剧/真人剧/视频，原 ForwardWidget 源 bbbs.js 适配 OmniBox
 // @version 1.2.0
-// @downloadURL https://gh-proxy.org/https://github.com/f1161291/other/edit/main/JS/91成人短剧.js
+// @downloadURL https://gh-proxy.org/https://github.com/f1161291/other/blob/main/JS/91成人短剧.js
 
 /**
  * ==========================================================================
