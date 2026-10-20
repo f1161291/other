@@ -2,7 +2,7 @@
 # @name 护士AV
 # @description 影视站：https://vip.hushiav9.cc ，采集站结构，支持首页分类、分类列表、搜索、详情与 m3u8 直链播放
 # @version 1.0.0
-# @downloadURL https://gh-proxy.org/https://github.com/f1161291/other/edit/main/PY/护士AV.py
+# @downloadURL https://gh-proxy.org/https://github.com/f1161291/other/blob/main/PY/护士AV.py
 
 # =============================================================================
 # 护士AV (https://vip.hushiav9.cc)
