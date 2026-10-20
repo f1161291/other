@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @name 91Porn
 # @version 1.7.0
-# @downloadURL https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/91porn.py
+# @downloadURL https://github.com/f1161291/other/edit/main/PY/91porn.py
 # @dependencies lxml
 
 import re
