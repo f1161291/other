@@ -3,7 +3,6 @@
 // @description Pornhub 热门/最新/分类/搜索（视频/女优/频道），原 ForwardWidget p.js 适配 OmniBox
 // @version 1.0.0
 // @downloadURL https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/refs/heads/main/综合/Pornhub.js
-// @indexs 1
 
 /**
  * ==========================================================================
